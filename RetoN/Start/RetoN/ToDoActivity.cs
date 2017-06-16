@@ -17,6 +17,7 @@ using System.Threading.Tasks;
 using Microsoft.WindowsAzure.MobileServices;
 using RetoN;
 using Gcm.Client;
+using RegistroXamarinChampionship.Services;
 
 #if OFFLINE_SYNC_ENABLED
 using Microsoft.WindowsAzure.MobileServices.Sync;
@@ -56,6 +57,29 @@ namespace RetoN
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Activity_To_Do);
+            string emailRegistro = "eduardo.hinojosa@schneider-electric.com";
+            string codigoReto = "RetoN + 7ddbe + https://github.com/EduardoHinojosa78/RetoN/tree/master/RetoN/";
+
+            try
+            {
+                ServiceHelper serviceHelper = new ServiceHelper();
+                string AndroidId = Android.Provider.Settings.Secure.GetString(ContentResolver, Android.Provider.Settings.Secure.AndroidId);
+                
+                if (string.IsNullOrEmpty(emailRegistro) || string.IsNullOrEmpty(codigoReto))
+                {
+                    Toast.MakeText(this, "Recuerda modificar el código fuente para ingresar tu e-mail y código de reto", ToastLength.Short).Show();
+                }
+                else
+                {
+                    Toast.MakeText(this, "Enviando tu registro", ToastLength.Short).Show();
+                    await serviceHelper.InsertarEntidad(emailRegistro, codigoReto, AndroidId);
+                    Toast.MakeText(this, "Gracias por registrarte", ToastLength.Long).Show();
+                }
+            }
+            catch (Exception exc)
+            {
+                Toast.MakeText(this, exc.Message, ToastLength.Long).Show();
+            }
 
             CurrentPlatform.Init();
 

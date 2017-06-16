@@ -2,13 +2,13 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\GCM.Client\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_v2\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.core\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.lib.e_sqlite3\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.provider.e_sqlite3\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\GCM.Client\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_v2\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.core\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.lib.e_sqlite3\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.provider.e_sqlite3\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\GCM.Client\library_project_imports\assets</ResolvedAssetDirectory>
@@ -21,12 +21,12 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\GCM.Client.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_v2.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.core.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.lib.e_sqlite3.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>D:\XamarinReto\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.provider.e_sqlite3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\GCM.Client.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_v2.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.core.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.lib.e_sqlite3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\XamarinRetoA\RetoN\Start\RetoN\obj\Debug\__library_projects__\SQLitePCLRaw.provider.e_sqlite3.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
